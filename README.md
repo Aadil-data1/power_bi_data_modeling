@@ -248,6 +248,8 @@ Validation via Power BI "View as Roles" confirmed that authenticated users (e.g.
 4. **Prefer Line-Level Fact Grain**: Building fact tables from detail line items rather than header records provides maximum analytical drill-down capability and eliminates duplicate header aggregation errors.
 5. **Eliminate Redundant Columns**: Dropping source audit hash keys and unneeded attributes optimizes columnar compression, reduces `.pbix` file size, and accelerates report rendering.
 
+   Thank you @DataWithBaraa [https://github.com/DataWithBaraa] for the project.
+
 About me
 
 Hi i am** Aadil Hameed **, completed a comprehensive Power BI Data Modeling project, eager to plunge into data field; ready to deliver the best possible results and catalyze businesses to make productive decisions with quality data analysis.
